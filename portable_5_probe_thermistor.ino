@@ -2,7 +2,7 @@
 #include "Adafruit_HTU21DF.h"
 #include <Adafruit_BMP085.h>
 #include "TouchScreen.h"
-#include <Adafruit_GFX.h>    // Core graphics library
+#include <Adafruit_GFX.h>    // Core graphics library.
 #include <Adafruit_TFTLCD.h> // Hardware-specific library
 
 #define DEBUG
